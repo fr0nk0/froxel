@@ -1,2 +1,2 @@
 # froxel
-Welcome to Froxel Network!
+Welcome to Froxel Live

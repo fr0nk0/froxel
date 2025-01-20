@@ -1,2 +1,2 @@
-# froxel
-Welcome to Froxel Live
+# Froxel Live
+A live creator SMP!
